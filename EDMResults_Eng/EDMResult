@@ -1,0 +1,4 @@
+mkdir EDMResult
+git mv EDMResults_Eng EDMResults_Ita EDMResult/
+git commit -m "Sposta cartelle in nuova_cartella"
+git push origin main
