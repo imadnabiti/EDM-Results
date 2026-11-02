@@ -19,3 +19,8 @@ This project provides an automated interface between electronic distance meters 
 4. **Rule-Compliant Formatting:** Automatically rounds down to the nearest centimeter in compliance with World Athletics competition rules.
 5. **Data Dispatch:** Displays the verified performance instantaneously and exports results to local scoring tables or electronic scoreboards.# EDM-Results
 A software interface for connecting EDM / total stations via serial communication to automate measurement acquisition and real-time result processing in Track &amp; Field jump and throw events.
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
