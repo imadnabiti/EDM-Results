@@ -1,13 +1,13 @@
-﻿Language=it
-Tipo=0
+﻿Language=en
+Tipo=1
 Lock=false
-OffsetZero=1068
+OffsetZero=1250
 Punto1=true
 Punto1.O=298.00617283950612
 Punto1.V=119.42222222222222
 Punto1.D=2.532
 Punto2=false
-Seriale.Port=COM1
+Seriale.Port=COM3
 Seriale.Speed=9600
 Seriale.Bits=8
 Seriale.Parity=0
